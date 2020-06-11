@@ -14,9 +14,9 @@ WLAN > 修改网络 > 高级选项 > 代理  (由于手机品牌不同描述可�
 
 <img src="http://47.102.84.37:6081/api/public/dl/b_2QjS_R/ad.jpg" width="50%"></img>
 
-#效果
-##PC
+# 效果
+## PC
 ![image](http://47.102.84.37:6081/api/public/dl/CKXIFOJK/pc-preview.jpg)
 
-##安卓
+## 安卓
 <img src="http://47.102.84.37:6081/api/public/dl/RRzqMIqk/ad-preview.jpg" width="50%"></img>
