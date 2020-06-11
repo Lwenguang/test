@@ -4,11 +4,11 @@
  * 必须连接wifi,只能适用wifi代理（不能使用流量）
 
 ## PC使用教程
-![image](https://github.com/Lwenguang/test/blob/master/image/pc-config.jpg)
+![image](http://47.102.84.37:6081/api/public/dl/z3hGWwj6/pc-config.jpg)
 
 ## 安卓使用教程
 WLAN > 修改网络 > 高级选项 > 代理  (由于手机品牌不同描述可能存在差异)
-![image](http://47.102.84.37:6081/api/public/dl/z3hGWwj6/pc-config.jpg)
+![image](http://47.102.84.37:6081/api/public/dl/b_2QjS_R/ad.jpg)
 
 ## IOS使用教程
 ![]()
