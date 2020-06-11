@@ -8,7 +8,7 @@
 
 ## 安卓使用教程
 WLAN > 修改网络 > 高级选项 > 代理  (由于手机品牌不同描述可能存在差异)
-![image](https://github.com/Lwenguang/test/blob/master/image/pc-config1.jpg)
+![image](http://47.102.84.37:6081/api/public/dl/z3hGWwj6/pc-config.jpg)
 
 ## IOS使用教程
 ![]()
