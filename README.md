@@ -41,7 +41,7 @@ WLAN > 修改网络(修改当前连接的wifi) > 高级选项 > 代理  (由于�
 ### PC下载不限速教程
 * `下载峰值 用户当前网速的峰值`
 * 原贴 [链接](https://www.52pojie.cn/thread-1013038-1-1.html)
-* 下载这个文件 https://wws.lanzous.com/iQ6Fwdl6hre 不要下上面链接里面的（项目源码太旧用不了了）
+* 下载这个文件 <a href="https://wws.lanzous.com/iQ6Fwdl6hre" target="_blank">https://wws.lanzous.com/iQ6Fwdl6hre</a> 不要下上面链接里面的（项目源码太旧用不了了）
 
 # 效果
 ### PC
